@@ -61,7 +61,7 @@ function Navbar() {
         </div>
 
         <div className="navbar__actions">
-          <a href="https://github.com/apps/codelens-ai" target="_blank" rel="noreferrer"
+          <a href="https://github.com/marketplace/codelens-prototype" target="_blank" rel="noreferrer"
             className="btn btn-primary navbar__cta" id="nav-install-btn">
             <Icons.Github /> Install on GitHub
           </a>
@@ -101,7 +101,7 @@ function Hero() {
           </p>
 
           <div className="hero__actions">
-            <a href="https://github.com/apps/codelens-ai" target="_blank" rel="noreferrer"
+            <a href="https://github.com/marketplace/codelens-prototype" target="_blank" rel="noreferrer"
               className="btn btn-primary" id="hero-install-btn">
               <Icons.Github /> Install Free
             </a>
@@ -363,7 +363,7 @@ function CTA() {
               Install in under 60 seconds. CodeLens works automatically on every PR.
             </p>
             <div className="cta-card__actions">
-              <a href="https://github.com/apps/codelens-ai" target="_blank" rel="noreferrer"
+              <a href="https://github.com/marketplace/codelens-prototype" target="_blank" rel="noreferrer"
                 className="btn btn-primary" id="cta-install-btn">
                 <Icons.Github /> Install on GitHub — Free
               </a>
@@ -398,7 +398,7 @@ function Footer() {
         </div>
         <div className="footer__col">
           <div className="footer__col-title">Links</div>
-          <a href="https://github.com/apps/codelens-ai" className="footer__link" target="_blank" rel="noreferrer">GitHub App</a>
+          <a href="https://github.com/marketplace/codelens-prototype" className="footer__link" target="_blank" rel="noreferrer">GitHub App</a>
           <a href="#" className="footer__link">Documentation</a>
           <a href="#" className="footer__link">Changelog</a>
         </div>
