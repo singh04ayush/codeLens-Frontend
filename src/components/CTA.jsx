@@ -37,7 +37,7 @@ export default function CTA() {
                 className="inline-flex items-center gap-[0.45rem] px-[1.4rem] py-[0.6rem] rounded-[var(--radius-md)] font-[var(--font-sans)] text-[0.82rem] font-semibold cursor-pointer transition-all duration-200 no-underline border-0 bg-gradient-to-r from-[#6366f1] via-[#a855f7] to-[#22d3ee] text-white shadow-[var(--shadow-btn)] hover:-translate-y-px hover:shadow-[0_6px_24px_rgba(99,102,241,0.5)]"
                 id="cta-install-btn"
               >
-                <Icons.Github /> Install on GitHub — Free
+                <Icons.Github /> Checkout Prototype
               </a>
               <a
                 href="#features"

@@ -46,7 +46,7 @@ export default function Navbar() {
             className="inline-flex items-center gap-[0.45rem] px-[1.1rem] py-[0.5rem] rounded-[var(--radius-md)] font-[var(--font-sans)] text-[0.8rem] font-semibold cursor-pointer transition-all duration-200 no-underline border-0 bg-gradient-to-r from-[#6366f1] via-[#a855f7] to-[#22d3ee] text-white shadow-[var(--shadow-btn)] hover:-translate-y-px hover:shadow-[0_6px_24px_rgba(99,102,241,0.5)]"
             id="nav-install-btn"
           >
-            <Icons.Github /> Install on GitHub
+            <Icons.Github /> Checkout Prototype
           </a>
           <button
             className="hidden max-md:flex flex-col gap-1 bg-transparent border-0 cursor-pointer p-1"
